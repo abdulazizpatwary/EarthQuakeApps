@@ -41,7 +41,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
 ```
 
 
-## ⚙️ How It Works
+##  How It Works
 
 1. App starts and fetches data using `http.get()`
 2. JSON response is decoded into a Dart `Map`
