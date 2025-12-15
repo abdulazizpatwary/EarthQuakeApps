@@ -1,10 +1,10 @@
-# 🌍 EarthQuakeApp
+#  EarthQuakeApp
 
 A simple **Flutter** application that displays **recent earthquakes worldwide** using real-time data from the **USGS Earthquake API**. The app shows earthquake **time**, **location**, and **magnitude** in a clean list, with more details shown in a dialog on tap.
 
 ---
 
-## 📱 Screens & UX
+##  Screens & UX
 
 * Scrollable list of earthquakes
 * Formatted date & time
@@ -13,17 +13,17 @@ A simple **Flutter** application that displays **recent earthquakes worldwide** 
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🌐 Real-time earthquake data (USGS)
-* 📋 `ListView.builder` for efficient rendering
-* ⏰ Date & time formatting with `intl`
-* 🎨 Material UI
-* 🧩 Clean, beginner-friendly code
+*  Real-time earthquake data (USGS)
+*  `ListView.builder` for efficient rendering
+*  Date & time formatting with `intl`
+*  Material UI
+*  Clean, beginner-friendly code
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Flutter (Dart)**
 * **http** – API requests
@@ -32,7 +32,7 @@ A simple **Flutter** application that displays **recent earthquakes worldwide** 
 
 ---
 
-## 🔗 API
+##  API
 
 **USGS Earthquake GeoJSON Feed (Past Day)**
 
@@ -51,7 +51,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
 
 ---
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 
@@ -60,14 +60,7 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
 * Android Emulator or Physical Device
 
 
-## 📦 Dependencies
 
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^1.2.0
-  intl: ^0.19.0
 
 
 
